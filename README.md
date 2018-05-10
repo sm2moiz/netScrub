@@ -1,6 +1,6 @@
 # netscrub
 
-Notice: Work in progress
+Note: Work in progress
 
 This is a command-line tool written in Java 
 that collects network data using the command-line component of
